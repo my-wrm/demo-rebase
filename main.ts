@@ -6,4 +6,5 @@ const data = {
   hobby: "Football",
   job: "Software Engineer",
   favoriteFood: "Pizza",
+  favoriteMoive: "Star War",
 };
