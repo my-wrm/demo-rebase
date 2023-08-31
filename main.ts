@@ -4,4 +4,7 @@ const data = {
   location: "New York",
   status: "single",
   favoriteMoive: "Star War",
+  hobby: "Football",
+  job: "Software Engineer",
+  favoriteFood: "Pizza",
 };
